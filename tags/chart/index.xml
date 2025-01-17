@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chart on Study with C.Yo</title>
+    <link>https://cyotsai.github.io/tags/chart/</link>
+    <description>Recent content in Chart on Study with C.Yo</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>&amp;copy; 2025 Cheng-Yu Tsai | All Rights Reserved</copyright>
+    <lastBuildDate>Wed, 06 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://cyotsai.github.io/tags/chart/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Charts</title>
+      <link>https://cyotsai.github.io/samples/charts/</link>
+      <pubDate>Wed, 06 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://cyotsai.github.io/samples/charts/</guid>
+      <description>Congo includes Chart.js for powerful charts and data visualisations.</description>
+    </item>
+  </channel>
+</rss>
