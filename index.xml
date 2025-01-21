@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Welcome to my blog! on Study with C.Yo</title>
+    <title>Welcome to my blog! on 寫一帖藥 CYo&#39;s Note</title>
     <link>https://cyotsai.github.io/</link>
-    <description>Recent content in Welcome to my blog! on Study with C.Yo</description>
+    <description>Recent content in Welcome to my blog! on 寫一帖藥 CYo&#39;s Note</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>&amp;copy; 2025 Cheng-Yu Tsai | All Rights Reserved</copyright>
-    <lastBuildDate>Mon, 23 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jan 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://cyotsai.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>用Hugo&#43;Github建立靜態網站</title>
+      <link>https://cyotsai.github.io/posts/hugo&#43;github/</link>
+      <pubDate>Tue, 21 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://cyotsai.github.io/posts/hugo&#43;github/</guid>
+      <description>這篇記錄我上Hahow好學校《Github 免費架站術！輕鬆打造個人品牌》這堂課的學習心得。</description>
+    </item>
     <item>
       <title>Upgrading from Congo 1.x</title>
       <link>https://cyotsai.github.io/docs/version-2/upgrade/</link>
